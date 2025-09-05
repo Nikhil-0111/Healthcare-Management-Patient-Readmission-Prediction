@@ -1,0 +1,31 @@
+﻿time_in_hospital,,,num_lab_procedures,,,num_procedures,,,num_medications,
+,,,,,,,,,,
+Mean,4.395986872,,Mean,43.09564098,,Mean,1.339730362,,Mean,16.02184423
+Standard Error,0.009357475,,Standard Error,0.061673602,,Standard Error,0.005347226,,Standard Error,0.025477638
+Median,4,,Median,44,,Median,1,,Median,15
+Mode,3,,Mode,1,,Mode,0,,Mode,13
+Standard Deviation,2.985107767,,Standard Deviation,19.67436225,,Standard Deviation,1.705806979,,Standard Deviation,8.127566209
+Sample Variance,8.910868383,,Sample Variance,387.0805299,,Sample Variance,2.90977745,,Sample Variance,66.05733248
+Kurtosis,0.85025084,,Kurtosis,-0.245073519,,Kurtosis,0.857110302,,Kurtosis,3.468154915
+Skewness,1.133998719,,Skewness,-0.236543921,,Skewness,1.316414763,,Skewness,1.326672134
+Range,13,,Range,131,,Range,6,,Range,80
+Minimum,1,,Minimum,1,,Minimum,0,,Minimum,1
+Maximum,14,,Maximum,132,,Maximum,6,,Maximum,81
+Sum,447362,,Sum,4385671,,Sum,136339,,Sum,1630479
+Count,101766,,Count,101766,,Count,101766,,Count,101766
+,,,,,,,,,,
+number_outpatient,,,number_emergency,,,number_inpatient,,,number_diagnoses,
+,,,,,,,,,,
+Mean,0.369357153,,Mean,0.197836212,,Mean,0.635565906,,Mean,7.422606765
+Standard Error,0.00397252,,Standard Error,0.002916769,,Standard Error,0.003958722,,Standard Error,0.006061294
+Median,0,,Median,0,,Median,0,,Median,8
+Mode,0,,Mode,0,,Mode,0,,Mode,9
+Standard Deviation,1.267265097,,Standard Deviation,0.930472268,,Standard Deviation,1.26286329,,Standard Deviation,1.933600145
+Sample Variance,1.605960825,,Sample Variance,0.865778642,,Sample Variance,1.594823689,,Sample Variance,3.738809521
+Kurtosis,147.9077363,,Kurtosis,1191.686726,,Kurtosis,20.71939695,,Kurtosis,-0.079056024
+Skewness,8.832958927,,Skewness,22.85558215,,Skewness,3.614138992,,Skewness,-0.876746239
+Range,42,,Range,76,,Range,21,,Range,15
+Minimum,0,,Minimum,0,,Minimum,0,,Minimum,1
+Maximum,42,,Maximum,76,,Maximum,21,,Maximum,16
+Sum,37588,,Sum,20133,,Sum,64679,,Sum,755369
+Count,101766,,Count,101766,,Count,101766,,Count,101766
